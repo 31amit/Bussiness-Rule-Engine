@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\bin\Debug\netcoreapp3.1\Business_Rules_Engine.exe
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\bin\Debug\netcoreapp3.1\Business_Rules_Engine.deps.json
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\bin\Debug\netcoreapp3.1\Business_Rules_Engine.runtimeconfig.json
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\bin\Debug\netcoreapp3.1\Business_Rules_Engine.runtimeconfig.dev.json
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\bin\Debug\netcoreapp3.1\Business_Rules_Engine.dll
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\bin\Debug\netcoreapp3.1\Business_Rules_Engine.pdb
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\obj\Debug\netcoreapp3.1\Business_Rules_Engine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\obj\Debug\netcoreapp3.1\Business_Rules_Engine.AssemblyInfo.cs
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\obj\Debug\netcoreapp3.1\Business_Rules_Engine.dll
+C:\Users\user\Desktop\StudyPracticalDotNet\Business_Rules_Engine\Business_Rules_Engine\obj\Debug\netcoreapp3.1\Business_Rules_Engine.pdb
