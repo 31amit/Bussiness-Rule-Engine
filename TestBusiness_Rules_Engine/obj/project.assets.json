@@ -5385,23 +5385,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\Amit-PC\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\StudyPracticalDotNet\\Business_Rules_Engine\\TestBusiness_Rules_Engine\\TestBusiness_Rules_Engine.csproj",
+      "projectUniqueName": "C:\\Users\\Amit-PC\\Desktop\\GitHub_Amit\\Bussiness-Rule-Engine\\TestBusiness_Rules_Engine\\TestBusiness_Rules_Engine.csproj",
       "projectName": "TestBusiness_Rules_Engine",
-      "projectPath": "C:\\Users\\user\\Desktop\\StudyPracticalDotNet\\Business_Rules_Engine\\TestBusiness_Rules_Engine\\TestBusiness_Rules_Engine.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\StudyPracticalDotNet\\Business_Rules_Engine\\TestBusiness_Rules_Engine\\obj\\",
+      "projectPath": "C:\\Users\\Amit-PC\\Desktop\\GitHub_Amit\\Bussiness-Rule-Engine\\TestBusiness_Rules_Engine\\TestBusiness_Rules_Engine.csproj",
+      "packagesPath": "C:\\Users\\Amit-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amit-PC\\Desktop\\GitHub_Amit\\Bussiness-Rule-Engine\\TestBusiness_Rules_Engine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amit-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5458,7 +5458,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
