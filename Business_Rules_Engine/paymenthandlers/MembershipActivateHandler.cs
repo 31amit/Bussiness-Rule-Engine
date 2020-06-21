@@ -9,8 +9,7 @@
 	using MembershipRepository = Business_Rules_Engine.repositories.MembershipRepository;
 	using NotificationService = Business_Rules_Engine.services.NotificationService;
 
-	// If the payment is for a membership, activate that membership.
-	// If the payment is for a membership or upgrade, e-mail the owner and inform them of the activation/upgrade.
+// Its for Membership
 	public class MembershipActivateHandler : PaymentHandler
 	{
 		private readonly MembershipRepository _service;
