@@ -29,7 +29,7 @@
 			sut.run(payment);
 
 			customer.addMembership(membership, notificationService);
-			//verify(customer, never()).addMembership(any(), any());
+			
 		}
 
 		[Test]
@@ -42,7 +42,7 @@
 
 			MembershipRepository repo = new Mock<MembershipRepository>().Object;
 			Membership membership = new Membership("item1", null);
-			//when(repo.findBySku("item1")).thenReturn(membership);
+			
 
 			NotificationService notificationService = new Mock<NotificationService>().Object;
 
@@ -50,7 +50,7 @@
 			sut.run(payment);
 
 			customer.addMembership(membership, notificationService);
-			//verify(customer, times(1)).addMembership(membership, notificationService);
+			
 		}
 		[Test]
 		public virtual void runShouldNotifyCustomer()
